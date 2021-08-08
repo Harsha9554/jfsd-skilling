@@ -42,7 +42,7 @@ public class Main {
 	private static void registerCRT() throws SQLException {
 		PreparedStatement ps = con.prepareStatement("INSERT INTO student VALUES(?, ?, ?, ?, ?, ?, ?, ?, ?)");
 
-		System.out.println("Enter Student details : (ID, Name, Gender, Year, Department, Mail, CGPA, Backlogs) ");
+		System.out.println("Enter Student details : (ID, Name, Gender, Year, Department, CGPA, Backlogs) ");
 		int id = Integer.parseInt(sc.nextLine());
 		String name = sc.nextLine();
 		String gender = sc.nextLine();
