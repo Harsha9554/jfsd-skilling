@@ -1,0 +1,12 @@
+190030545
+Sai SriHarsha Griddaluru
+Male
+3
+CSE
+8247372663
+29/01/2002
+Sri Ram Griddaluru
+6281611071
+GMR Residency, Tirupati
+/home/harsha9554/code/eclipse-workspace/JFSD-SKILL-2/src/static/kl-id-card.png
+/home/harsha9554/code/eclipse-workspace/JFSD-SKILL-2/src/static/hostel-payment.pdf

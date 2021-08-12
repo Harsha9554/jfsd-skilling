@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="c_styles.css"?>
+
+<!DOCTYPE note SYSTEM "c.dtd">
+
+<bank>
+	<person>
+		<name>Sai SriHarsha Griddaluru</name>
+		<age>19</age>
+		<gender>Male</gender>
+		<address>Tirupati</address>
+	</person>
+	<person>
+		<name>Jonas Khanwald</name>
+		<age>19</age>
+		<gender>Male</gender>
+		<address>Winden</address>
+	</person>
+</bank>

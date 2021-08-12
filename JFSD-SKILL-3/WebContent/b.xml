@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE hogwarts [
+	<!ELEMENT hogwarts (day)+>
+	<!ELEMENT day (place+, date+, report)>
+	<!ELEMENT place (#PCDATA)>
+	<!ELEMENT date (#PCDATA)>
+	<!ELEMENT report (#PCDATA)>
+]>
+
+<hogwarts>
+	<day>
+		<place>Guntur</place>
+		<date>8/08/2021</date>
+		<report>Rain</report>
+	</day>
+	<day>
+		<place>Vijayawada</place>
+		<date>9/08/2021</date>
+		<report>Sunny</report>
+	</day>
+	<day>
+		<place>Guntur</place>
+		<date>10/08/2021</date>
+		<report>Cloudy</report>
+	</day>
+	<day>
+		<place>Vijayawada</place>
+		<date>11/08/2021</date>
+		<report>Humid</report>
+	</day>
+	<day>
+		<place>Guntur</place>
+		<date>12/08/2021</date>
+		<report>Rain</report>
+	</day>
+	<day>
+		<place>Vijayawada</place>
+		<date>13/08/2021</date>
+		<report>Cloudy</report>
+	</day>
+	<day>
+		<place>Guntur</place>
+		<date>14/08/2021</date>
+		<report>Raining</report>
+	</day>
+</hogwarts>

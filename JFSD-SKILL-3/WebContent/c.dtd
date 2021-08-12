@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT bank (person)+ >
+<!ELEMENT person (name+, age+, gender+, address+)>
+<!ELEMENT name (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT address (#PCDATA)>
